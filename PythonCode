@@ -156,5 +156,7 @@ put_route_nexthop_ip(R1_mgmt_IP, "10.10.20.0/24", "172.16.1.2")
 put_route_nexthop_ip(R1_mgmt_IP, "0.0.0.0/0", "172.16.1.2")
 put_route_nexthop_ip(R2_mgmt_IP, "10.10.10.0/24", "172.16.1.1")
 
+#TEST
+
 
 
